@@ -1,2 +1,2 @@
 # HastaneProjesi
- Nesne Yönelimli Programama Final Proje
+ Nesne Yönelimli Programlama Final Proje
